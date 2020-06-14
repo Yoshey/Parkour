@@ -34,5 +34,5 @@ Afterwards, Drop the "Timer" "StartTime" and "StopTime" into your Map. Select th
 Last, Open the "Teleport" Folder and Drag and Drop the Teleport and Destination into your Map. It's recommended to always place one at the end of your Track. Just select teh Teleport and hook up the Destination and it will work. You can use this for Checkpoints as well!
 <br>
 <br>
-<h5>The Advanced Movement Module is Licensed under the
-Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)</h5>
+<h5>The Racing Gamemode is Licensed under the
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</h5>
