@@ -1,0 +1,55 @@
+If you do not have the Pavlov Workshop Plugin, you must link your UE4 account with your
+GitHub account to get access to the plugin.
+
+FIRST, READ "License - ReadMe.txt"
+__________________________________________________________
+----------------------INSTALLATION------------------------
+Important: Always create a Backup before making changes!
+
+__________________________________________________________
+----------01. Adding Racing to a new Project--------------
+
+1. Extract the zip file and open Pavlov.uproject
+2. In the UE4 Editor, go to "Window" and select "Pavlov Workshop".
+3. In the Pavlov Workshop window, press the "Create New" button. This will create a new and unique UGCXXX folder inside the *ProjectNameHere*\Content\CustomMaps folder. Close the window
+4. Select the "AdvancedMovement" and "RacingGamemode" Folders and Drag&Drop it into your UGCXXX Folder
+4.1 (Optional) Do the same with the "AdvancedMovementExamples" to include the examples
+5. Right click the "Content" Folder and select "Fix up Redirectors in Folder"
+
+__________________________________________________________
+------02. Adding Racing to an existing Default Project-------
+
+1. Extract the zip file and open the Content Folder
+2. everything within the Content Folder and Paste it into your Project's Content Folder
+3. Open your Project in Unreal Engine
+5. Select the "AdvancedMovement" and "RacingGamemode" Folders and Drag&Drop it into your UGCXXX Folder
+5.1 (Optional) Do the same with the "AdvancedMovementExamples" to include the examples
+6. Right click the "Content" Folder and select "Fix up Redirectors in Folder"
+
+__________________________________________________________
+---------------------03. Updating Racing---------------------
+MAKE SURE TO MAKE A BACKUP BEFORE DOING THIS!
+
+1. Extract the zip file and open the Content Folder
+2. Create a Folder called "CustomMaps" and within it "UGCXXX" replace XXX with your current UGC Folder's name
+3. Open Pavlov.uproject
+4. Select the "AdvancedMovement" and "RacingGamemode" folder and Drag&Drop it into your UGCXXX Folder
+4.1 (Optional) Do the same with the "AdvancedMovementExamples" to include the examples
+6. Right click the "Content" Folder and select "Fix up Redirectors in Folder"
+7. Quit Unreal Engine and open the "Content/CustomMaps/UGCXXX" Folder
+8. Copy the Folders, navigate to the same Folder in your old Project and Paste. Override Everything when Prompted.
+
+__________________________________________________________
+------------------------Extra------------------------
+The Racing Gamemode works best for Dedicated Servers. Some parts will break or fail with Default Servers such as Leaderboards, but Map Developement can be done with them.
+
+Feel free to Message me on Discord (Yoshey#0001) and I might include your Map on my Dedicated Servers.
+
+
+To get the Racing Gamemode working, you have to drop the "Racing_Gamelogic" into your Map. (Add your SteamID64 and Name to it's Variables to receive all my Donator Rewards)
+
+Next, open the "RaceTrack" Folder. Drag and Drop the "ScoreboardPersonalBest" and "ScoreboardTop15" into your Map. Next, Select the ScoreboardPersonalBest, link the Personal Scoreboard in it's Variables and input a Filename.
+
+Afterwards, Drop the "Timer" "StartTime" and "StopTime" into your Map. Select them and link the Variable to the ScoreboardTop15. This will automatically make them Register to that Racetrack.
+
+Last, Open the "Teleport" Folder and Drag and Drop the Teleport and Destination into your Map. It's recommended to always place one at the end of your Track. Just select teh Teleport and hook up the Destination and it will work. You can use this for Checkpoints as well!

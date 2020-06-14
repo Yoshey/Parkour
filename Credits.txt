@@ -1,0 +1,6 @@
+Racing Gamemode by Yoshey for Pavlov VR
+Version 1.0 - 2020
+
+-
+
+All gamemode logic, art assets, models and sound assets are ultimately owned by Yoshey.
