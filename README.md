@@ -1,5 +1,5 @@
 <h1>Parkour Gamemode by Yoshey for Pavlov VR</h1>
-<h3>Version 1.0 - 2020</h3>
+<h3>Version 1.01 - 2020</h3>
 <ul><h3>Features</h3>
   <li>Top15 Leaderboard</li>
   <li>Personal Best leaderboard</li>
