@@ -1,5 +1,5 @@
 <h1>Parkour Gamemode by Yoshey for Pavlov VR</h1>
-<h3>Version 1.01 - 2020</h3>
+<h3>Version 1.1 - 2020</h3>
 <ul><h3>Features</h3>
   <li>Top15 Leaderboard</li>
   <li>Personal Best leaderboard</li>
@@ -36,3 +36,15 @@ Last, Open the "Teleport" Folder and Drag and Drop the Teleport and Destination 
 <br>
 <h5>The Parkour Gamemode is Licensed under the
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</h5>
+<br>
+<br>
+<br>
+<br>
+<h3>Version History:</h3>
+<b>1.1</b><br>
+<ul>
+	<li>Updated to AMM 1.4b</li>
+	Important: Make sure to Rename the folders "AdvancedMovement" and "AdvancedMovement_Examples" to "AMM" and "AMM_Examples" before updating installation&info.txt step 03.
+</ul>
+<b>1.0</b><br>
+Initial Release

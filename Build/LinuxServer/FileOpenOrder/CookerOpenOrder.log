@@ -164,156 +164,120 @@
 "../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 163
 "../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 164
 "../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 165
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/RacingGamemode/UI/Textures/Teleport.uasset" 166
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/RacingGamemode/RaceTrack/Teleport/TeleportDestination.uasset" 167
-"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 168
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 169
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/AdvancedMovement/Miscellaneous/JsonLibrary.uasset" 170
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/AdvancedMovement/Proxies/AdvancedMovement_PlayerInfo.uasset" 171
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/AdvancedMovement/Proxies/AdvancedMovement_GlobalInfo.uasset" 172
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Plugins/CustomMapTools/Content/Examples/Proxies/BP_HandProxyExample.uasset" 173
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/AdvancedMovement/Proxies/AdvancedMovement_Interface.uasset" 174
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/AdvancedMovement/Proxies/AdvancedMovement_HandProxy.uasset" 175
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/AdvancedMovement/UI/Images/border.uasset" 176
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/AdvancedMovement/UI/Images/Button.uasset" 177
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/AdvancedMovement/UI/Images/SettingsIcon.uasset" 178
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/AdvancedMovement/UI/SettingsMenu.uasset" 179
-"../../../Engine/Content/EngineMeshes/Humanoid.uasset" 180
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Plugins/CustomMapTools/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 181
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Plugins/CustomMapTools/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 182
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/AdvancedMovement/Miscellaneous/Sounds/SW_Wind_RushingLoop1.uasset" 183
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 184
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 185
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 186
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 187
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 188
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/AdvancedMovement/Proxies/AdvancedMovement_PlayerProxy.uasset" 189
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/RacingGamemode/Miscellaneous/PlayerScore.uasset" 190
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/RacingGamemode/UI/Entry_Leaderboard.uasset" 191
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/RacingGamemode/UI/Entry_PersonalBest.uasset" 192
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/RacingGamemode/UI/Leaderboard_Widget.uasset" 193
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/RacingGamemode/UI/Miscellaneous/Loading.uasset" 194
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/RacingGamemode/RaceTrack/ScoreboardPersonalBest.uasset" 195
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/RacingGamemode/Racing_Gamelogic.uasset" 196
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/RacingGamemode/Proxies/Racing_GlobalInfo.uasset" 197
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/RacingGamemode/UI/Miscellaneous/DonatorMenu.uasset" 198
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/RacingGamemode/Proxies/Racing_PlayerProxy.uasset" 199
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/RacingGamemode/RaceTrack/ScoreboardTop15.uasset" 200
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/RacingGamemode/Proxies/Racing_PlayerInfo.uasset" 201
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/RacingGamemode/RaceTrack/Timer.uasset" 202
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 203
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 204
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 205
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 206
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 207
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 208
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 209
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 210
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 211
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/AdvancedMovement/Interacting/Advanced_InteractBox.uasset" 212
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/AdvancedMovement/Climbing/Climbing_Box.uasset" 213
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/AdvancedMovement/Interacting/Advanced_InteractMesh.uasset" 214
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/AdvancedMovement/Climbing/Climbing_StaticMesh.uasset" 215
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 216
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Plugins/CustomMapTools/Content/PhysicalMaterials/PM_ForceNone.uasset" 217
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/AdvancedMovementExamples/Materials/BasicColors/BasicColorMaster.uasset" 218
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/AdvancedMovementExamples/Materials/BasicColors/BasicRed.uasset" 219
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/AdvancedMovementExamples/Materials/BasicColors/BasicWhite.uasset" 220
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/AdvancedMovementExamples/Meshes/Dynamic_Box.uasset" 221
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/AdvancedMovementExamples/Climbing/ClimbableBox.uasset" 222
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/AdvancedMovementExamples/Climbing/ClimbableBoxWallDetection.uasset" 223
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/AdvancedMovementExamples/Meshes/LadderMesh.uasset" 224
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/AdvancedMovementExamples/Climbing/ClimbableMesh.uasset" 225
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/AdvancedMovementExamples/Climbing/Climbspin.uasset" 226
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/RacingGamemode/UI/Miscellaneous/Credits.uasset" 227
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/RacingGamemode/Credits.uasset" 228
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/RacingGamemode/Miscellaneous/Mirror/MirrorTexture.uasset" 229
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/RacingGamemode/Miscellaneous/Mirror/MirrorMat.uasset" 230
-"../../../Engine/Content/BasicShapes/Plane.uasset" 231
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/RacingGamemode/Miscellaneous/Mirror/Mirror.uasset" 232
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/RacingGamemode/UI/Textures/Transparent_Texture.uasset" 233
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/RacingGamemode/UI/Textures/StartMat.uasset" 234
-"../../../Engine/Content/BasicShapes/Cube.uasset" 235
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/RacingGamemode/RaceTrack/StartTime.uasset" 236
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/RacingGamemode/UI/Textures/StopMat.uasset" 237
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/RacingGamemode/RaceTrack/StopTime.uasset" 238
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/RacingGamemode/UI/Textures/TeleportMat.uasset" 239
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/RacingGamemode/RaceTrack/Teleport/Teleport.uasset" 240
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Mannequin/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 241
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Mannequin/Animations/FirstPerson_Idle.uasset" 242
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Mannequin/Animations/FirstPerson_JumpEnd.uasset" 243
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Mannequin/Animations/FirstPerson_JumpLoop.uasset" 244
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Mannequin/Animations/FirstPerson_JumpStart.uasset" 245
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Mannequin/Animations/FirstPerson_Run.uasset" 246
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Mannequin/Animations/FirstPerson_AnimBP.uasset" 247
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Mannequin/Character/Mesh/MannequinHand_Right_Skeleton.uasset" 248
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Mannequin/Animations/MannequinHand_Right_CanGrab.uasset" 249
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Mannequin/Animations/MannequinHand_Right_Grab.uasset" 250
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Mannequin/Animations/MannequinHand_Right_Open.uasset" 251
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Mannequin/Animations/RightGrip_BS.uasset" 252
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Mannequin/Animations/GripEnum.uasset" 253
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Mannequin/Animations/RightHand_AnimBP.uasset" 254
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 255
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Mannequin/Animations/ThirdPerson_Jump.uasset" 256
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 257
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Mannequin/Animations/ThirdPersonJump_Start.uasset" 258
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Mannequin/Animations/ThirdPersonIdle.uasset" 259
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Mannequin/Animations/ThirdPersonRun.uasset" 260
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Mannequin/Animations/ThirdPersonWalk.uasset" 261
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 262
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 263
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Mannequin/Animations/FirstPerson_Fire.uasset" 264
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Mannequin/Animations/FirstPersonFire_Montage.uasset" 265
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Pawn/BulletFade.uasset" 266
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Pawn/BulletTrace2.uasset" 267
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Pawn/FirstPersonProjectile.uasset" 268
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 269
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 270
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Mannequin/Character/Materials/M_HandMat.uasset" 271
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Mannequin/Character/Mesh/MannequinHand_Right_PhysicsAsset.uasset" 272
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Mannequin/Character/Mesh/MannequinHand_Right.uasset" 273
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 274
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 275
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 276
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 277
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 278
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 279
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 280
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 281
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 282
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 283
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 284
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 285
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 286
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 287
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 288
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 289
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Mannequin/Character/Mesh/SK_Mannequin.uasset" 290
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Mannequin/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 291
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Mannequin/Character/Mesh/SK_Mannequin_Arms.uasset" 292
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Pawn/Audio/FirstPersonTemplateWeaponFire02.uasset" 293
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Weapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 294
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Weapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 295
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Weapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 296
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Weapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 297
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Weapon/Materials/MaterialLayers/ML_Screen.uasset" 298
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Weapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 299
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Weapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 300
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Weapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 301
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Weapon/Textures/T_FPGun_M.uasset" 302
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Weapon/Textures/T_FPGun_N.uasset" 303
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Weapon/Materials/M_FPGun.uasset" 304
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Weapon/Mesh/SK_FPGun_Skeleton.uasset" 305
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Weapon/Mesh/SK_FPGun.uasset" 306
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/DeveloperMode/Pawn/FirstPersonCharacter.uasset" 307
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/RacingGamemode/RacingExampleMap_BuiltData.uasset" 308
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/AdvancedMovementExamples/Materials/BasicColors/Transparent_Texture.uasset" 309
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/AdvancedMovementExamples/Materials/BasicColors/BasicGreen.uasset" 310
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/AdvancedMovementExamples/Meshes/Dynamic_BoxCentered.uasset" 311
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/definition.uasset" 312
-"A:/!GameDev/UE4/Pavlov/Advanced Movement/Racing 1.0/Content/CustomMaps/UGC2095206091/RacingGamemode/RacingExampleMap.umap" 313
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 314
-"../../../Engine/Content/Maps/Entry.umap" 315
-"../../../Engine/Content/Maps/Templates/Template_Default_BuiltData.uasset" 316
-"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 317
-"../../../Engine/Content/Maps/Templates/Template_Default.umap" 318
+"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 166
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 167
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/AMM/Miscellaneous/JsonLibrary.uasset" 168
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/AMM/Miscellaneous/FalldamageType.uasset" 169
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/AMM/Proxies/AdvancedMovement_GlobalInfo.uasset" 170
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/ParkourGamemode/Proxies/Parkour_GlobalInfo.uasset" 171
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/AMM/Proxies/AdvancedMovement_PlayerInfo.uasset" 172
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/AMM/Proxies/AdvancedMovement_Interface.uasset" 173
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/AMM/Miscellaneous/InteractKind.uasset" 174
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/AMM/Miscellaneous/Interact_Structure_AMM.uasset" 175
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/AMM/Proxies/AdvancedMovement_HandProxy.uasset" 176
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/AMM/UI/Images/border.uasset" 177
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/AMM/UI/Images/Button.uasset" 178
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/AMM/UI/Images/SettingsIcon.uasset" 179
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/AMM/UI/SettingsMenu.uasset" 180
+"../../../Engine/Content/EngineMeshes/Humanoid.uasset" 181
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Plugins/CustomMapTools/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 182
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Plugins/CustomMapTools/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 183
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/AMM/Miscellaneous/Sounds/Default.uasset" 184
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/AMM/Miscellaneous/Sounds/Falldamage/PVR_SFX_FallDamage_Mono_2_1.uasset" 185
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/AMM/Miscellaneous/Sounds/Falldamage/PVR_SFX_FallDamage_Mono_2_2.uasset" 186
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/AMM/Miscellaneous/Sounds/Falldamage/PVR_SFX_FallDamage_Mono_2_3.uasset" 187
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/AMM/Miscellaneous/Sounds/Falldamage/PVR_SFX_FallDamage_Mono_2_4.uasset" 188
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/AMM/Miscellaneous/Sounds/Falldamage/PVR_SFX_FallDamage_Mono_2_5.uasset" 189
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/AMM/Miscellaneous/Sounds/Falldamage/PVR_SFX_FallDamage_Mono_2_5-2.uasset" 190
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/AMM/Miscellaneous/Sounds/Falldamage/PVR_SFX_FallDamage_Mono_2_6.uasset" 191
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/AMM/Miscellaneous/Sounds/SW_Wind_RushingLoop1.uasset" 192
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/AMM/Movement/NoFallDamagePhysMat.uasset" 193
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 194
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 195
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 196
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 197
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 198
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/AMM/Proxies/AdvancedMovement_PlayerProxy.uasset" 199
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/ParkourGamemode/UI/Miscellaneous/DonatorMenu.uasset" 200
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/ParkourGamemode/Proxies/Parkour_PlayerProxy.uasset" 201
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/ParkourGamemode/Miscellaneous/PlayerScore.uasset" 202
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/ParkourGamemode/UI/Entry_Leaderboard.uasset" 203
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/ParkourGamemode/UI/Entry_PersonalBest.uasset" 204
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/ParkourGamemode/UI/Leaderboard_Widget.uasset" 205
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/ParkourGamemode/UI/Miscellaneous/Loading.uasset" 206
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/ParkourGamemode/TimeTrial/ScoreboardPersonalBest.uasset" 207
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/ParkourGamemode/TimeTrial/ScoreboardTop15.uasset" 208
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/ParkourGamemode/Proxies/Parkour_PlayerInfo.uasset" 209
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/ParkourGamemode/Parkour_Gamelogic.uasset" 210
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/ParkourGamemode/UI/Textures/Teleport.uasset" 211
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/ParkourGamemode/TimeTrial/Teleporter/TeleportDestination.uasset" 212
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/ParkourGamemode/UI/Textures/DefaultTextMaterialBright.uasset" 213
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/ParkourGamemode/TimeTrial/Timer.uasset" 214
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 215
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 216
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 217
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 218
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 219
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 220
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 221
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 222
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 223
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/AMM/Interacting/Advanced_InteractBox.uasset" 224
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Plugins/CustomMapTools/Content/Examples/Proxies/BP_HandProxyExample.uasset" 225
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/AMM/Climbing/Climbing_Box.uasset" 226
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/AMM/Interacting/Advanced_InteractMesh.uasset" 227
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/AMM/Climbing/Climbing_StaticMesh.uasset" 228
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 229
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Plugins/CustomMapTools/Content/PhysicalMaterials/PM_ForceNone.uasset" 230
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/AMM_Examples/Materials/BasicColors/BasicColorMaster.uasset" 231
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/AMM_Examples/Materials/BasicColors/BasicRed.uasset" 232
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/AMM_Examples/Materials/BasicColors/BasicWhite.uasset" 233
+"../../../Engine/Content/BasicShapes/Cube.uasset" 234
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/AMM_Examples/Climbing/ClimbableBox.uasset" 235
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/AMM_Examples/Climbing/ClimbableBoxWallDetection.uasset" 236
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/AMM_Examples/Meshes/LadderMesh.uasset" 237
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/AMM_Examples/Climbing/ClimbableMesh.uasset" 238
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/AMM_Examples/Climbing/Climbspin.uasset" 239
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/ParkourGamemode/UI/Miscellaneous/Credits.uasset" 240
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/ParkourGamemode/Credits.uasset" 241
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/ParkourGamemode/Miscellaneous/Mirror/MirrorTexture.uasset" 242
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/ParkourGamemode/Miscellaneous/Mirror/MirrorMat.uasset" 243
+"../../../Engine/Content/BasicShapes/Plane.uasset" 244
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/ParkourGamemode/Miscellaneous/Mirror/Mirror.uasset" 245
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/ParkourGamemode/UI/Textures/Transparent_Texture.uasset" 246
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/ParkourGamemode/UI/Textures/StartMat.uasset" 247
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/ParkourGamemode/TimeTrial/StartTime.uasset" 248
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/ParkourGamemode/UI/Textures/StopMat.uasset" 249
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/ParkourGamemode/TimeTrial/StopTime.uasset" 250
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/ParkourGamemode/UI/Textures/TeleportMat.uasset" 251
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/ParkourGamemode/TimeTrial/Teleporter/Teleport.uasset" 252
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/ParkourGamemode/ParkourExampleMap_BuiltData.uasset" 253
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/AMM_Examples/Materials/BasicColors/Transparent_Texture.uasset" 254
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/AMM_Examples/Materials/BasicColors/BasicGreen.uasset" 255
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 256
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 257
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Sign.uasset" 258
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Round.uasset" 259
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 260
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 261
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/SuperGrid/StarterPack/Materials/Functions/Basic/BreakSet.uasset" 262
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/SuperGrid/StarterPack/Materials/Functions/Basic/MakeSet.uasset" 263
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/SuperGrid/StarterPack/Materials/Functions/Basic/Roughness.uasset" 264
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/SuperGrid/StarterPack/Materials/Functions/Texture/Dye_SingleColor.uasset" 265
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/SuperGrid/StarterPack/Source/Textures/T_BasicGrid_M.uasset" 266
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/SuperGrid/StarterPack/Materials/Functions/Texture/Tex_SimpleGrid.uasset" 267
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/SuperGrid/StarterPack/Materials/Functions/UV/UV_ObjectScalable.uasset" 268
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/SuperGrid/StarterPack/Materials/Functions/UV/UV_SetupGrid.uasset" 269
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/SuperGrid/StarterPack/Source/Textures/T_BasicGrid_N.uasset" 270
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/SuperGrid/StarterPack/Materials/Base/M_SuperGrid_SingleColor.uasset" 271
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/SuperGrid/StarterPack/Materials/Palette/Grids/M_SuperGrid_Default.uasset" 272
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/AMM_Examples/Meshes/Dynamic_Box.uasset" 273
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/AMM_Examples/Meshes/Dynamic_BoxCentered.uasset" 274
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/pic.uasset" 275
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/definition.uasset" 276
+"A:/!Dev/UE4/Pavlov/Parkour/Parkour - Copy - Copy/Content/CustomMaps/UGC2130635247/ParkourGamemode/ParkourExampleMap.umap" 277
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 278
+"../../../Engine/Content/Maps/Entry.umap" 279
+"../../../Engine/Content/Maps/Templates/Template_Default_BuiltData.uasset" 280
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 281
+"../../../Engine/Content/Maps/Templates/Template_Default.umap" 282
