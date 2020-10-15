@@ -5,6 +5,7 @@
   <li>Personal Best leaderboard</li>
   <li>Racetrack Logic (Start/Stop/Timer/Checkpoints)</li>
 </ul>
+<h2>Note: This project is currently not being worked on actively</h2>
 <br>
 All logic, art assets and models are ultimately owned by Yoshey.
 <br>
